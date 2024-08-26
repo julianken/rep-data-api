@@ -1,5 +1,5 @@
 interface RepresentativeLoaderProps {
-  api_key: string
+  apiKey: string
 }
 
 export interface ConfigProps {

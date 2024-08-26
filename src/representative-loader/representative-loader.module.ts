@@ -6,7 +6,6 @@ import { config } from '../config/config';
 @Module({
   imports: [
     ConfigModule.forRoot({
-      isGlobal: true,
       load: [config]
     })
   ],
