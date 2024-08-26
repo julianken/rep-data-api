@@ -803,6 +803,13 @@
   dependencies:
     "@sinonjs/commons" "^3.0.0"
 
+"@the-wash/node-opensec@^0.1.0":
+  version "0.1.0"
+  resolved "https://registry.yarnpkg.com/@the-wash/node-opensec/-/node-opensec-0.1.0.tgz#696cce87523c9edb106a785ce7fd3f492748c394"
+  integrity sha512-SzpnGeqdkBT2AJblLzjyGtTf6K6dupC2vKA/O0K5GNet5ae6JSiFPeJM8iPeRKLT5qNGkjhjiUh9JtByG99SxQ==
+  dependencies:
+    dotenv "^16.4.5"
+
 "@tsconfig/node10@^1.0.7":
   version "1.0.11"
   resolved "https://registry.yarnpkg.com/@tsconfig/node10/-/node10-1.0.11.tgz#6ee46400685f130e278128c7b38b7e031ff5b2f2"
@@ -2021,6 +2028,11 @@ doctrine@^3.0.0:
   integrity sha512-yS+Q5i3hBf7GBkd4KG8a7eBNNWNGLTaEwwYWUijIYM7zrlYDM0BFXHjjPWlWZ1Rg7UaddZeIDmi9jF3HmqiQ2w==
   dependencies:
     esutils "^2.0.2"
+
+dotenv@^16.4.5:
+  version "16.4.5"
+  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.4.5.tgz#cdd3b3b604cb327e286b4762e13502f717cb099f"
+  integrity sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==
 
 eastasianwidth@^0.2.0:
   version "0.2.0"
